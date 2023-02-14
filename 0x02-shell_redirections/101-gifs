@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -l "aaa" | "bbb" | ".b" | "a" | "jay" | "Rona" | sort
